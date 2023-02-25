@@ -1,0 +1,15 @@
+,Account,Old Amount,Average,New Amount,Type
+0,Else,0,530.11,0.0,Variable
+1,Food,600.0,748.76,750.0,Variable
+2,Fees,10.95,20.75,23.0,Variable
+3,Gas,250.0,341.89,350.0,Variable
+4,Income,0,-4535.78,-3140.31,Income
+5,Interest,0,-0.06,-0.06,Income
+6,Rent/Internet,930.9,939.99,930.9,Fixed
+7,Spending,600.0,713.59,750.0,Variable
+8,Student Loan,61.6,63.55,0.0,Fixed
+9,Car Insurance,0,0.0,125.0,Fixed
+10,Car Maintenance,150.0,31.13,31.13,Variable
+11,Phone,61.6,61.6,61.6,Fixed
+12,Savings,0,7.0,0.0,Variable
+13,Bike Maintenance ,0,19.32,0.0,Variable
